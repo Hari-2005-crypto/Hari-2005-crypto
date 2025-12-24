@@ -2,7 +2,8 @@
 - 👀 I’m interested in CSE
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CSE
-- 📫 How to reach me no way
+- 📫 How to reach me
+- 
 
 <!---
 Hari-2005-crypto/Hari-2005-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
