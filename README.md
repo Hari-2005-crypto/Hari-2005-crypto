@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari-2005-crypto
+- 👋 Hi, I’m @hari-charan@2005
 - 👀 I’m interested in CSE
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on CSE
